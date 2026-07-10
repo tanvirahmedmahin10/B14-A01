@@ -1,6 +1,7 @@
 *{
 margin: 0;
 padding: 0;
+font-family: "Inter", sans-serif;
 }
 .box-container{
     display:flex;
@@ -69,14 +70,14 @@ header div p{
     
     border-radius: 10px;
     margin-top: 330px;
-    padding: 25px 62px;
+    padding: 20px 62px;
   background-color: #1D4ED8;
   color: #FFFFFF ;
   border-radius: 10px;
    text-shadow: none;
    border: none;
    font-weight: bold;
-   font-size: 19px;
+   font-size: 18px;
 
 }
 .header-text h1{
@@ -228,4 +229,35 @@ color: #FFFFFF;
     color: #0D1B2A;
     text-decoration: none;
     font-weight: bold;
+}
+.footer-box{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding: 56px 115px;
+    background-color: #0D1B2A;
+}
+.footer-child{
+    display: flex;
+    gap: 20px;
+    
+}
+.footer-box p{
+    color: #FFFFFF;
+}
+.AI-Generator{
+    margin-top: 40px;
+    text-align: center;
+    padding: 150px 270px;
+    border-style: dotted;
+    border-color: #7C3AED;
+    background-color: #e4deee;
+}
+.AI-Generator h1{
+    color: #7C3AED;
+    font-size: 63px;
+}
+.AI-Generator h2{
+    color: #9F67EA;
+    font-size: 41px;
 }
