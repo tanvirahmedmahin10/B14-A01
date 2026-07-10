@@ -80,7 +80,7 @@ main{
     max-width: 1400px;
     margin: auto;
 }
-.first-row{
+.flex-pic{
     display: flex;
     justify-content: space-between;
     
@@ -95,9 +95,9 @@ main{
     
 }
 .info{
-   
+    
     border-radius: 10px;
-    padding: 0;
+    margin-left: auto;
     border: 2px solid #ece9e9;
 }
 .expert{
@@ -122,4 +122,7 @@ main{
     margin-top: 8px;
     color: #575757;
     margin-bottom: 24px;
+}
+.gap-between{
+    margin-top: 32px;
 }
