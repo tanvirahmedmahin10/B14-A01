@@ -32,14 +32,7 @@ font-family: "Inter", sans-serif;
    border: none;
 }
 
-/* .button-common1{
-    padding:40px;
-  background-color: #1D4ED8;
-  color: #FFFFFF ;
-  border-radius: 10px;
-   text-shadow: none;
-   border: none;
-} */
+
 header{
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('./assets/banner.jpg');
     height: 90vh;
