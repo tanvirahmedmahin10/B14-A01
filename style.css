@@ -1,0 +1,125 @@
+*{
+margin: 0;
+padding: 0;
+}
+.box-container{
+    display:flex;
+    max-width: 1551px;
+    
+    justify-content: space-between;
+    margin: auto;
+    align-items: center;
+    padding: 10px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    
+}
+a{
+    text-decoration: none;
+    color: #575757;
+   
+}
+.button-common{
+  padding: 10px 20px;
+  background-color: #1D4ED8;
+  color: #FFFFFF ;
+  border-radius: 10px;
+   text-shadow: none;
+   border: none;
+}
+header{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('./assets/banner.jpg');
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    background-position: center;
+}
+header div h1{
+    color: #FFFFFF;
+    font-size:50px ;
+
+}
+header div p{
+    color: #FFFFFF;
+}
+.header-text{
+    display: flex;
+   flex-direction: column;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+   
+    
+    
+}
+.header-text button{
+    width: 8%;
+    padding: 13px;
+    border-radius: 10px;
+    margin-top: 380px;
+
+}
+.header-text h1{
+    margin-top: 120px;
+    font-size: 80px;
+}
+.header-text p{
+    
+    width: 830px;
+    font-size: 24px;
+   
+    margin-top: 30px;
+   
+}
+main{
+    
+    max-width: 1400px;
+    margin: auto;
+}
+.first-row{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.first-p{
+    margin-top: 80px;
+    text-align: center;
+    margin-bottom: 56px;
+    font-size: 56px;
+    font-weight: bold;
+    
+}
+.info{
+   
+    border-radius: 10px;
+    padding: 0;
+    border: 2px solid #ece9e9;
+}
+.expert{
+    margin-top: 24px;
+    margin-left: 24px;
+    color: #2563EB;
+    font-weight: 600;
+    font-size: 12px;
+}
+.name1{
+    margin-left: 24px;
+    font-weight: 600;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 8px;
+}
+.position{
+    margin-left: 24px;
+    
+    font-size: 14px;
+    
+    margin-top: 8px;
+    color: #575757;
+    margin-bottom: 24px;
+}
