@@ -224,10 +224,10 @@ color: #FFFFFF;
     font-weight: bold;
 }
 .footer-box{
-    margin-top: 40px;
+    
     display: flex;
     justify-content: space-between;
-    padding: 56px 115px;
+    padding: 18px 50px;
     background-color: #0D1B2A;
 }
 .footer-child{
