@@ -244,7 +244,7 @@ color: #FFFFFF;
     
     display: flex;
     justify-content: space-between;
-    padding: 18px 50px;
+    padding: 34px 50px;
     background-color: #0D1B2A;
 }
 .footer-child{
@@ -254,6 +254,10 @@ color: #FFFFFF;
 }
 .footer-box p{
     color: #FFFFFF;
+}
+hr{
+    
+    border-top: 1px ;
 }
 /* .AI-Generator{
     margin-top: 40px;
