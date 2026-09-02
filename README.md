@@ -40,6 +40,7 @@ Git
 GitHub
 VS Code or any modern code editor
 
+Dependencies:
 This project does not require React, Node.js, npm, or any external JavaScript framework.
 
 📂 Project Structure
