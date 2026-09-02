@@ -6,17 +6,20 @@ The website presents the conference experience through a clean and professional 
 
 🌐 Live Demo
 
-🔗 Live Website: (https://tanvirahmedmahin10.github.io/B14-A01/)
+🔗 Live Website: https://tanvirahmedmahin10.github.io/B14-A01/
 
-📦 Repository: https://github.com/tanvirahmedmahin10/B14-A01
+📦 GitHub Repository: https://github.com/tanvirahmedmahin10/B14-A01
 
 📸 Project Preview
 
+Here’s a preview of the DevConf 2026 landing page, showcasing its modern, responsive design and conference-focused UI.
+
+<p align="center"> <img src="./Devconf.png" alt="DevConf 2026 Landing Page Preview" width="100%"> </p>
 ✨ Features
 🎯 Modern DevConf 2026 conference landing page
 🖥️ Hero/banner section with conference introduction
 👨‍💻 Featured speaker section
-💳 Multiple ticket/pricing plans
+💳 Multiple ticket and pricing plans
 Standard
 Pro
 Team
@@ -30,21 +33,18 @@ Team
 🛠️ Technologies Used
 Frontend
 HTML5 — Website structure and semantic content
-CSS3 — Styling, layout, responsive design and visual presentation
+CSS3 — Styling, layout, responsive design, and visual presentation
 Google Fonts — Inter typography
 Tools
 Git
 GitHub
-VS Code / any modern code editor
-
-<p align="center">
-  <img src="./Devconf.png" alt="My Full Stack Developer Journey" width="100%">
-</p>
+VS Code or any modern code editor
 
 This project does not require React, Node.js, npm, or any external JavaScript framework.
 
 📂 Project Structure
 B14-A01/
+│
 ├── assets/
 │   ├── andrej.png
 │   ├── banner.jpg
@@ -58,6 +58,7 @@ B14-A01/
 │   ├── mustafa.png
 │   └── twitter.png
 │
+├── Devconf.png
 ├── index.html
 ├── style.css
 ├── PROMPTS.md
@@ -102,7 +103,7 @@ Recruitment booth
 Priority customer support
 ❓ FAQ
 
-The project also includes an FAQ section covering common questions about:
+The project includes an FAQ section covering common questions about:
 
 Who should attend DevConf
 Session recordings
@@ -112,13 +113,13 @@ Ticket transfers
 
 Since this is a static HTML/CSS project, no package installation or build process is required.
 
-1. Clone the repository
+1. Clone the Repository
 git clone https://github.com/tanvirahmedmahin10/B14-A01.git
 
-2. Navigate to the project
+2. Navigate to the Project
 cd B14-A01
 
-3. Open the project
+3. Open the Project
 
 You can simply open index.html in your browser.
 
@@ -132,18 +133,32 @@ Select Open with Live Server.
 The website will open in your browser.
 🌍 Deployment
 
-Because this is a static HTML/CSS website, it can easily be deployed using platforms such as:
+This project is deployed using GitHub Pages.
+
+🔗 Live Website: https://tanvirahmedmahin10.github.io/B14-A01/
+
+Because this is a static HTML/CSS website, it can also be deployed using platforms such as:
 
 GitHub Pages
 Netlify
 Vercel
-
-After deployment, add the live website URL to the Live Demo section above and to the GitHub repository's About → Website field.
-
 🔗 Relevant Links
-GitHub Repository: https://github.com/tanvirahmedmahin10/B14-A01
-Live Demo:(https://tanvirahmedmahin10.github.io/B14-A01/)
-GitHub Profile: https://github.com/tanvirahmedmahin10
+🌐 Live Demo: https://tanvirahmedmahin10.github.io/B14-A01/
+📦 GitHub Repository: https://github.com/tanvirahmedmahin10/B14-A01
+👤 GitHub Profile: https://github.com/tanvirahmedmahin10
+📚 Learning Outcomes
+
+Through this project, the following frontend development concepts were practiced:
+
+Semantic HTML structure
+CSS layout and styling
+Responsive web design
+Flexbox and modern CSS techniques
+Typography and Google Fonts
+Image and asset management
+Component-like section organization
+Git and GitHub workflow
+Static website deployment with GitHub Pages
 📄 License
 
-This project is created for educational and portfolio purposes.
+This project was created for educational and portfolio purposes.
