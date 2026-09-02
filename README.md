@@ -37,6 +37,10 @@ Git
 GitHub
 VS Code / any modern code editor
 
+<p align="center">
+  <img src="./Devconf.png" alt="My Full Stack Developer Journey" width="100%">
+</p>
+
 This project does not require React, Node.js, npm, or any external JavaScript framework.
 
 📂 Project Structure
